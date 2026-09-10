@@ -61,8 +61,6 @@ DocuMind-RAG/
 │       └── datastart_ai_telim_proqrami.pdf
 ```
 
-> Keep this structure exactly as shown. `app.py` imports modules from `src/` and loads sample PDFs from `output/pdf/`.
-
 ## Installation
 
 ### 1. Clone the repository
